@@ -1,0 +1,2 @@
+exemple de mini site
+
